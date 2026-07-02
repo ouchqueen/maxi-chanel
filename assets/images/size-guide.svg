@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="title desc">
+<title id="title">Classic Flap Size Guide</title><desc id="desc">Small, Jumbo, 38cm Maxi, XXL Travel</desc>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7f6ef"/><stop offset="1" stop-color="#e8e3d4"/></linearGradient>
+<pattern id="q" width="70" height="70" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M0 0 H70 V70 H0 Z" fill="none" stroke="#d2b6a6" stroke-width="2" opacity="0.45"/></pattern>
+</defs>
+<rect width="1200" height="675" fill="url(#g)"/>
+<rect x="0" y="0" width="1200" height="675" fill="url(#q)" opacity="0.6"/>
+<text x="70" y="92" font-size="48" font-family="Georgia, 'Times New Roman', serif" fill="#171717" font-weight="700">Classic Flap Size Guide</text>
+<text x="72" y="136" font-size="22" font-family="Arial, Helvetica, sans-serif" fill="#5f5650">Small, Jumbo, 38cm Maxi, XXL Travel</text>
+<rect x="80" y="225" width="230" height="105" rx="18" fill="#ffffff" opacity="0.92"/><text x="104" y="267" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#1d1d1f" font-weight="700">Small</text><text x="104" y="303" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#5f5650">Evening essentials</text><rect x="340" y="225" width="230" height="105" rx="18" fill="#ffffff" opacity="0.92"/><text x="364" y="267" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#1d1d1f" font-weight="700">Jumbo</text><text x="364" y="303" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#5f5650">Most wearable</text><rect x="600" y="225" width="230" height="105" rx="18" fill="#ffffff" opacity="0.92"/><text x="624" y="267" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#1d1d1f" font-weight="700">38cm Maxi</text><text x="624" y="303" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#5f5650">Bold statement</text><rect x="860" y="225" width="230" height="105" rx="18" fill="#ffffff" opacity="0.92"/><text x="884" y="267" font-size="24" font-family="Arial, Helvetica, sans-serif" fill="#1d1d1f" font-weight="700">XXL Travel</text><text x="884" y="303" font-size="18" font-family="Arial, Helvetica, sans-serif" fill="#5f5650">Airport drama</text>
+<path d="M845 230 C845 185 905 185 905 230" fill="none" stroke="#2b2928" stroke-width="14" stroke-linecap="round"/>
+<rect x="795" y="230" width="165" height="190" rx="24" fill="#35302d"/>
+<path d="M815 260 l130 130 M945 260 l-130 130 M880 230 v190" stroke="#7d736d" stroke-width="5" opacity="0.75"/>
+<rect x="852" y="312" width="55" height="38" rx="12" fill="#c8a46b"/>
+<circle cx="878" cy="331" r="10" fill="#35302d" opacity="0.65"/>
+</svg>
